@@ -23,3 +23,11 @@ After entering it, its divided by 2 to see if we'll get a remainder from that nu
 I used an if else condition to check which condition was  met after that operation. 
 For each condition a statement would be returned depending on the nature of our result.
 Finally I placed the function within the print functionality to display the statement returned. 
+
+QUESTION 3: Compute factorial using a loop
+I used a functoin that would compute factotial of a given number called compute_factorial
+The function allows a user to enter a number they would like to get the factorial for.
+It then initializes a total variable with the same value as the number entered to multiply it by the sequence below it.
+We then create a FOR loop to iterate multiplication of numbers within our range of numbers.
+We finally returned the total after exiting the loop bakc to our function
+The value returned is then displayed at the end under the print functionality, as we call the function.
