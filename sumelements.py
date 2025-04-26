@@ -12,5 +12,5 @@ def sum_list_elements(*numbers):
         
      return total
 
-#Calling the function
+#Calling the function and displaying as we  add test arguments
 print(sum_list_elements(3,4,5))
