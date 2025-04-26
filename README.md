@@ -1,7 +1,8 @@
 # Python Practice questions
 
-Name: Eric Chacha 
-Admission Number: 191652
+
+# Name: Eric Chacha 
+# Admission Number: 191652
 
 Question 1 : Sum all elements in a list.
 
